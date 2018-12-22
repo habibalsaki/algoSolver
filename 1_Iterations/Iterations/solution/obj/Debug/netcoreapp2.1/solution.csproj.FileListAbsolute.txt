@@ -1,0 +1,11 @@
+/home/habib/Desktop/algoSolver/1_Iterations/Iterations/solution/bin/Debug/netcoreapp2.1/solution.deps.json
+/home/habib/Desktop/algoSolver/1_Iterations/Iterations/solution/bin/Debug/netcoreapp2.1/solution.runtimeconfig.json
+/home/habib/Desktop/algoSolver/1_Iterations/Iterations/solution/bin/Debug/netcoreapp2.1/solution.runtimeconfig.dev.json
+/home/habib/Desktop/algoSolver/1_Iterations/Iterations/solution/bin/Debug/netcoreapp2.1/solution.dll
+/home/habib/Desktop/algoSolver/1_Iterations/Iterations/solution/bin/Debug/netcoreapp2.1/solution.pdb
+/home/habib/Desktop/algoSolver/1_Iterations/Iterations/solution/obj/Debug/netcoreapp2.1/solution.csprojAssemblyReference.cache
+/home/habib/Desktop/algoSolver/1_Iterations/Iterations/solution/obj/Debug/netcoreapp2.1/solution.csproj.CoreCompileInputs.cache
+/home/habib/Desktop/algoSolver/1_Iterations/Iterations/solution/obj/Debug/netcoreapp2.1/solution.AssemblyInfoInputs.cache
+/home/habib/Desktop/algoSolver/1_Iterations/Iterations/solution/obj/Debug/netcoreapp2.1/solution.AssemblyInfo.cs
+/home/habib/Desktop/algoSolver/1_Iterations/Iterations/solution/obj/Debug/netcoreapp2.1/solution.dll
+/home/habib/Desktop/algoSolver/1_Iterations/Iterations/solution/obj/Debug/netcoreapp2.1/solution.pdb
